@@ -1,0 +1,33 @@
+[
+    {
+      "id": 1,
+      "name": "John Doe",
+      "img": "https://example.com/john-doe.jpg",
+      "title": "Software Engineer"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "img": "https://example.com/jane-smith.jpg",
+      "title": "Data Scientist"
+    },
+    {
+      "id": 3,
+      "name": "Alex Johnson",
+      "img": "https://example.com/alex-johnson.jpg",
+      "title": "Graphic Designer"
+    },
+    {
+      "id": 4,
+      "name": "Emily Davis",
+      "img": "https://example.com/emily-davis.jpg",
+      "title": "Marketing Specialist"
+    },
+    {
+      "id": 5,
+      "name": "Michael Brown",
+      "img": "https://example.com/michael-brown.jpg",
+      "title": "Product Manager"
+    }
+  ]
+  
